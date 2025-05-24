@@ -1,6 +1,6 @@
 -- Création de la base de données
 CREATE DATABASE bibliotheque;
---\c bibliotheque;
+\c bibliotheque;
 
 -- Table des catégories
 CREATE TABLE Categories (
