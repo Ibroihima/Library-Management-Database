@@ -68,7 +68,7 @@ La base de données est composée de 4 tables principales :
 ## Installation
 1. **Cloner le dépôt** :
    ```bash
-   git clone https://github.com/[votre-nom-utilisateur]/Library-Management-Database.git
+   git clone https://github.com/Ibroihima/Library-Management-Database.git
    cd Library-Management-Database
    ```
 
@@ -162,8 +162,6 @@ Voici quelques exemples de requêtes incluses dans le script `library_database.s
 - Ajouter des tests unitaires pour valider les requêtes SQL avec un framework comme **pytest**.
 
 ## Auteur
-[Votre Nom]  
-[Liens vers votre GitHub, LinkedIn, ou portfolio]
+ATHOUMANI Ibroihima  
+athoumani.ibroihima@gmail.com
 
-## Licence
-Ce projet est sous licence MIT. Voir le fichier `LICENSE` pour plus de détails.
